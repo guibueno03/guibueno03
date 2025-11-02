@@ -12,7 +12,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3182BD?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-02569B?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 
 #### Ferramentas e Tecnologias
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
